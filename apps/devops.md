@@ -17,16 +17,16 @@ systems development life cycle.
 1. IaaS (vms  ex: VPS )
 
 ### Vertulization
-1. docker
- - swarm
- - kubernets
+1. docker 
+    - swarm
+    - kubernets
 1. vmware
 
 ### Tools
-1. scripting (Bash (ssh/vps))
+1. Scripting (Bash (ssh/vps))
 1. CI/CD (Jenkins)
-1. monitoring services(Nagios)
-1. firewall
+1. Monitoring services(Nagios)
+1. Firewall
 
 
 

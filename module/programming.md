@@ -13,7 +13,7 @@
 - Scripting language
 - Markup language
 - Stylesheet language
-- Qouring language
+- Quering language
 
 ### Structured files
 1. YAML
