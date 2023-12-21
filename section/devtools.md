@@ -1,13 +1,13 @@
 
 
 ### Dep:
-- Profilers (memorty,cpu and so on )
-- Linter and debugers (eslint,pylint)
-- Test autometers (just,pytest)(TDD,BDD,XP)
-- Code style inforcement (use industry std)(autopep8,prettier)
-- Autometers (nodemon,live-server)
-- configration Management (rc,dotenv)
-- Documentation Manangers
+- Profilers (memory,cpu and so on )
+- Linter and debuggers (eslint,pylint)
+- Test automats (just,pytest)(TDD,BDD,XP)
+- Code style (use industry std)(autopep8,prettier)
+- Automation (nodemon,live-server)
+- configuration Management (rc,dotenv)
+- Documentation Managers
 
 
 ### Dev:

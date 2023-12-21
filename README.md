@@ -7,17 +7,17 @@ knowledge of programming languages.</br>
 ### <span style="color:#6c757d;">Core </span>
 - Networking
 - [Programming](module/programming.md)
-- Vertulization
+- Virtualization
 - Operating systems
 - Cloud computing
 - [DBMS](module/dbms.md)
 - Cyber security
-- Disecrate Math
+- Discrete Math
 
 
 ### <span style="color:#6c757d;">Module</span>
 - Von Neumann model
-- [Programming paradims](section/paradim.md)
+- [Programming paradigms](section/paradim.md)
 - Software methodology
 - Data structure and algorithm
 - Design patterns
