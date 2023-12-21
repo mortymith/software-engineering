@@ -5,7 +5,7 @@
 - Scripting language
 - Markup language
 - Stylesheet language
-- Quering language
+- Querying language
 
 ### Structured files
 1. YAML

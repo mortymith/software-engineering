@@ -16,10 +16,10 @@ systems development life cycle.
 1. SaaS (apps ex: DBMS,ui/ux so on)
 1. IaaS (vms  ex: VPS )
 
-### Vertulization
+### Virtualization
 1. docker 
     - swarm
-    - kubernets
+    - kubernetes
 1. vmware
 
 ### Tools
