@@ -1,12 +1,15 @@
 
 
-## Tools
-1. Profilers (memorty,cpu and so on )
-2. Linter and debugers (eslint,pylint)
-3. Test autometers (just,pytest)(TDD,BDD,XP)
-4. Code style inforcement (use industry std)(autopep8,prettier)
-5. Autometers (nodemon,live-server)
-6. configration Management (rc,dotenv)
-7. Documentation Manangers
-8. Version control system (VCS) ( git / subvision )(Github)
-9. Text editors (Vscode / nvim)
+### Dep:
+- Profilers (memorty,cpu and so on )
+- Linter and debugers (eslint,pylint)
+- Test autometers (just,pytest)(TDD,BDD,XP)
+- Code style inforcement (use industry std)(autopep8,prettier)
+- Autometers (nodemon,live-server)
+- configration Management (rc,dotenv)
+- Documentation Manangers
+
+
+### Dev:
+- Version control system (VCS) ( git / subvision )(Github)
+- Text editors (Vscode / nvim / Jupiter)

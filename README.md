@@ -4,7 +4,7 @@ Software engineering is the process of designing, developing, testing, </br>
 and maintaining software applications using engineering principles and </br>
 knowledge of programming languages.</br>
 
-### <span style="color:#6c757d;">Module </span>
+### <span style="color:#6c757d;">Core </span>
 - Networking
 - [Programming](module/programming.md)
 - Vertulization
@@ -12,16 +12,16 @@ knowledge of programming languages.</br>
 - Cloud computing
 - [DBMS](module/dbms.md)
 - Cyber security
+- Disecrate Math
 
 
-### <span style="color:#6c757d;">Sections</span>
+### <span style="color:#6c757d;">Module</span>
 - Von Neumann model
 - [Programming paradims](section/paradim.md)
 - Software methodology
 - Data structure and algorithm
 - Design patterns
 - Architectural patterns
-- Disecrate Math
 - Problem  solving
 - [Devtools](section/devtools.md)
 

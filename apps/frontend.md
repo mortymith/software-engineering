@@ -1,14 +1,26 @@
-### Web dev
-1. SSR (nextjs)
-1. CSR
-1. SSG
+### Web
+- type:
+   1. SSR
+   2. CSR
+   3. SSG 
 
-### Mobile dev
-1. web app
-1. native app
-   - reactnative (js)
-1. hybrid app
-   - ionic
 
-### Desktop dev
-1. electron(html,css,js)
+### Mobile
+- type:
+   1. Web app
+   2. Native app
+   3. Hybrid app
+
+
+### Desktop
+- type
+   1. Application 
+   2. System
+
+### Components
+   1. State managment
+   2. Router
+   3. Styling
+   4. API call
+   5. Testing
+   6. Frameworks

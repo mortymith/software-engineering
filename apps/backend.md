@@ -2,33 +2,30 @@
 
 ### API dev
 
-1. Communication patterns
-	- restfull ( architecture)
-	- RPC      ( graphql,gRPC)
-	- event diven(webhooks)
-	- message queue
-	- publish subscribe (kafka)
+- Architectural patterns:
+	1. REST
+	2. Webhooks
+	3. Graphql
+	4. Soap
+	5. Websocket
+	6. gRPC
 
-2. Auth*
-	- oauth (standard protocol)
-	- jwt
-	- keycloak ( opensource)
-3. Techs
-	- ExpressJs
-	- NestJs
-	- Graphql
-	- gRPC
-	- webhooks
-4. ORM
-	- sqlalchmy (py)
-	- knex,typeORM(js)
+- Communication patterns:
+	1. RESTfull
+	2. RPC
+	3. event diven(webhooks)
+	4. message queue
+	5. publish subscribe (kafka)
+
+- Components:
+	1. Auth*
+	3. Testing
+	4. Config
+	5. ORM
+	6. hashing
+
 
 ### Tools
 
-1. Testing
-    - curl 
-	-  Postman for API debugging
-
-1. Server programs
-    - NGINX
-    - Apachi
+- Testing (curl,Postman)
+- Server programs (NGINX,Apache) 
